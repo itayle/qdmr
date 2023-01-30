@@ -1,5 +1,5 @@
 # The Effect of Data Representation in Question Decomposition
-Code for the paper [The Effect of Data Representation in Question Decomposition](The_Effect_of_Data_Representation_in_Question_Decomposition.pdf)
+Code for the paper [The Effect of Language Representation in Question Decomposition](The_Effect_of_Language_Representation_in_Question_Decomposition.pdf)
 
 
 * [About](#About)
